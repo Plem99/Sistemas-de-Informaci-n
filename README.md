@@ -1,3 +1,3 @@
 # Alumno:
-Nombre: Pedro Luis Espinoza Martinez\n
-Matricula: 1730314
+<br>Nombre:<b> Pedro Luis Espinoza Martinez.</b></br>
+Matrícula:<b> 1730314.</b>
