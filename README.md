@@ -1,1 +1,3 @@
-# Sistemas-de-Informaci-n
+# Alumno:
+Nombre: Pedro Luis Espinoza Martinez
+Matricula: 1730314
